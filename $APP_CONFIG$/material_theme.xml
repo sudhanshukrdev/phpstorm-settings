@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="accentColor" value="f9826c" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="userId" value="-79e825dd:1763bd34067:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>

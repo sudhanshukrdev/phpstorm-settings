@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="customer" type="AUTO_DETECTED" />
+      <mapping ext="ng" type="HTML" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+    </extensionMap>
+  </component>
+</application>
