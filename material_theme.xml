@@ -1,8 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="accentMode" value="true" />
     <option name="allowDataCollection" value="true" />
-    <option name="compactSidebar" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="tabFontSize" value="14" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="accentColor" value="f9826c" />
+    <option name="highlightColor" value="1a4fbc" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="-79e825dd:1763bd34067:-8000" />
     <option name="version" value="5.5.0" />
