@@ -1,0 +1,11 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="enabledPsiIcons" value="false" />
+    <option name="useHollowFolders" value="false" />
+    <option name="monochromeColor" value="546e7a" />
+    <option name="isEnabledPsiIcons" value="false" />
+    <option name="isUseHollowFolders" value="false" />
+    <option name="accentColor" value="2979ff" />
+    <option name="themedColor" value="7f7f7f" />
+  </component>
+</application>

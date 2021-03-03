@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="f9826c" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="userId" value="-79e825dd:1763bd34067:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>
